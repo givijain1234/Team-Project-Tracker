@@ -1,0 +1,5 @@
+{
+  "name": "Team Project Tracker",
+  "description": "A simple and elegant application to track team projects, owners, and their statuses. Features AI-powered sample data generation.",
+  "requestFramePermissions": []
+}
